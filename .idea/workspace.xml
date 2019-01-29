@@ -13,25 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/routes.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/models/student.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/classification.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -258,12 +240,12 @@
       <workItem from="1548604841709" duration="5246000" />
       <workItem from="1548687458602" duration="1264000" />
       <workItem from="1548710268709" duration="572000" />
-      <workItem from="1548737423094" duration="1266000" />
+      <workItem from="1548737423094" duration="1626000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15665000" />
+    <option name="totallyTimeSpent" value="16025000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -377,10 +359,10 @@
     <entry file="file://$PROJECT_DIR$/app/models/author_book.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/classification.rb">
+    <entry file="file://$PROJECT_DIR$/app/models/student.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="20" selection-start-column="6" selection-end-column="20" />
+          <caret column="13" selection-start-column="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -391,10 +373,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/student.rb">
+    <entry file="file://$PROJECT_DIR$/app/models/classification.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="13" selection-start-column="6" selection-end-column="13" />
+          <caret column="20" selection-start-column="6" selection-end-column="20" />
         </state>
       </provider>
     </entry>
